@@ -17,12 +17,12 @@ export const SignInButton = () => {
           fontWeight: 500,
           color: "#FFFFFF",
           textTransform: "none",
-          "& span": {
-            width: "68px",
-            height: "30px",
-            transform: "rotate(0deg)",
-            opacity: 1,
-          },
+          // "& span": {
+          //   width: "68px",
+          //   height: "30px",
+          //   transform: "rotate(0deg)",
+          //   opacity: 1,
+          // },
 
           "&:hover": {
             background: "#2A2A2A",
